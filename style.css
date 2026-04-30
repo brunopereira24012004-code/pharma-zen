@@ -56,3 +56,8 @@ div.logo h1 {
     color: #fff;
 
 }
+
+/* ##### Hero ##### */
+div.hero img {
+    widht: 100%;
+}
