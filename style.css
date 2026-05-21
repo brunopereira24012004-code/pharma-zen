@@ -79,6 +79,21 @@ div.hero img {
 }
 
 .content img {
-    height: 180px;
+    height: 198px;
+    width: 193x;
     border-radius: 50%;
 }
+
+.texto-final {
+
+    font-size: 40px;
+    
+}
+
+.covid-test-content img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
